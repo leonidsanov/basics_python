@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./lesson_6/task_6-2"
+    ]
+}
